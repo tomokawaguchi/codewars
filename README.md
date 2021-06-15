@@ -1,4 +1,6 @@
 # codewars
 This repo is to log my journey of Codewars challenge. One Kata per day.
 
-![codewar_starting_stat](https://github.com/tomokawaguchi/codewars/blob/master/codewars_starting_stat_15Jun2021.png)
+Logging started from 15 Jun 2021 with the stats below:
+
+![codewar_starting_stats](https://github.com/tomokawaguchi/codewars/blob/master/codewars_starting_stat_15Jun2021.png)
