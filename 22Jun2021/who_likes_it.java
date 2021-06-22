@@ -17,7 +17,7 @@
 class Solution {
     public static String whoLikesIt(String... names) {
       String result = "";
-      
+      // Depending on the length of string, return different strings
       switch(names.length){
             case 0: 
                 return result = "no one likes this";
