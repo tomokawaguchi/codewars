@@ -33,6 +33,7 @@ class Solution {
             default:
                 result = names[0] + ", ";
                 result += names[1];
+                // Getting the number of people except the first 2 
                 String numString = Integer.toString(names.length - 2);
                 return result += " and " + numString + " others like this";
       }
