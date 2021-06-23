@@ -17,7 +17,7 @@
 class Solution {
     public static String whoLikesIt(String... names) {
       String result = "";
-      
+      // Depending on the length of string, return different strings
       switch(names.length){
             case 0: 
                 return result = "no one likes this";
@@ -33,6 +33,7 @@ class Solution {
             default:
                 result = names[0] + ", ";
                 result += names[1];
+                // Getting the number of people except the first 2 
                 String numString = Integer.toString(names.length - 2);
                 return result += " and " + numString + " others like this";
       }
