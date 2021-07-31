@@ -13,3 +13,7 @@ Logging the updates on my scores on 30th Jun 2021
 
 ![codewar_updates_30Jun2021](https://github.com/tomokawaguchi/codewars/blob/master/codewars_30Jun2021.png)
 
+Logging the updates on my scores on 31st July 2021
+
+![codewar_updates_31July2021](https://github.com/tomokawaguchi/codewars/blob/master/codewars_31July2021.png)
+
